@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\Task3\bin\Debug\Task3.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\Task3\bin\Debug\Task3.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\Task3\bin\Debug\Task3.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\Task3\obj\Debug\Task3.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\Task3\obj\Debug\Task3.pdb

@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\ConsoleApplication20\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
